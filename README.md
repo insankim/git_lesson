@@ -5,5 +5,3 @@ This is changed version of README.md
 The third version
 
 Git is a version control system that prevents us from having the "final doc" problem.
-
-Git takes snapshots of the entire repository for us to revert back to.
